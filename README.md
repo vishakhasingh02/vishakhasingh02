@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vishakha Singh</h1>
 <h3 align="center">Data Scientist | Web Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=romitdubey&label=Profile%20views&color=0e75b6&style=flat" alt="romitdubey" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishakhasingh02&label=Profile%20views&color=0e75b6&style=flat" alt="vishakhasingh02" /> </p>
 
 - 🌱 I’m currently learning *Web Development*
 
